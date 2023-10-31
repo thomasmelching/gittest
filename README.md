@@ -1,10 +1,8 @@
 # gittest
 
-Some stuff
-
-and some mroe stuff
-
-addded in github
 
 
-wallnut
+##wallnut is a nut
+
+
+this is new
